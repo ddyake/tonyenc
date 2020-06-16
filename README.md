@@ -37,7 +37,7 @@ const u_char tonyenc_key[] = {
 
 #### 在 Linux、macOS 上编译
 ```
-git clone https://github.com/lihancong/tonyenc.git
+git clone https://github.com/ddyake/tonyenc.git
 cd tonyenc
 phpize
 ./configure
